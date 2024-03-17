@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"GestioArrays"},{"p":"<Unnamed>","l":"GestioClients"},{"p":"<Unnamed>","l":"GestioCotxe"},{"p":"<Unnamed>","l":"GestioFactura"},{"p":"<Unnamed>","l":"Index"},{"p":"<Unnamed>","l":"Menus"},{"p":"<Unnamed>","l":"Validacio"}];updateSearchResults();
